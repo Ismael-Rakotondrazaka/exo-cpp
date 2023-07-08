@@ -1,0 +1,6 @@
+.vscode
+.temp
+bin
+.~lock*
+**/bin/
+*.env

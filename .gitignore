@@ -2,5 +2,5 @@
 .temp
 bin
 .~lock*
-**/bin/
+/**/bin/
 *.env

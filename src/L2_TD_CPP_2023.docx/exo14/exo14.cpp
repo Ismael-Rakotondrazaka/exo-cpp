@@ -49,5 +49,7 @@ int main(int argc, char const *argv[])
     Heure *heure = new Heure(23, 59);
     heure->ecritInfo();
 
+    delete heure;
+
     return 0;
 }
